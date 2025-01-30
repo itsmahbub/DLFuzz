@@ -1,0 +1,4 @@
+.venv/
+*.pyc
+ImageNet/generated_inputs/
+MNIST/generated_inputs/
